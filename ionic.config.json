@@ -1,0 +1,7 @@
+{
+  "name": "test-button-list",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
